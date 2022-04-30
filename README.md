@@ -1,6 +1,17 @@
 # Learning JDK
 
+## 源码阅读
 
-## 项目介绍
+### 第一期
+* `ArrayList`:
+```java
+RandomAccess 接口实现无用
+Arrays.asList() 和 Connections.emptyList() 不能直接使用
+addAll() 返回值注意点
+batchRemove 实现效率低下
+```
 
-本分支存储通用的测试文件，并不针对特定版本的JDK。
+### 第二期
+* `HashMap、ArrayList`等已经继承了`AbstractMap`、`AbstractList`等，为什么还要再次实现`Map`、`List`接口
+
+
