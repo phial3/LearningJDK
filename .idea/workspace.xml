@@ -20,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="q9atmto5" />
   </component>
@@ -64,6 +67,7 @@
       <updated>1651289660268</updated>
       <workItem from="1651289661743" duration="131000" />
       <workItem from="1651289975635" duration="1948000" />
+      <workItem from="1651302005696" duration="33000" />
     </task>
     <servers />
   </component>
